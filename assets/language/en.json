@@ -1,0 +1,28 @@
+{
+  "title": "Reyaz",
+  "switch_light_theme": "Switch to Light Theme",
+  "switch_dark_theme": "Switch to Dark Theme",
+  "my_resume": "MY RESUME",
+  "home": "HOME",
+  "about_me": "ABOUT ME",
+  "welcome_portfolio": "WELCOME TO MY PORTFOLIO",
+  "first_name": "Reyaz",
+  "last_name": "Ahmad",
+  "skills": [
+    "Android Developer",
+    "Design Enthusiast",
+    "Flutter Developer",
+    "Spring Developer",
+    "Nestjs Developer"
+  ],
+  "about_info": [
+    {
+      "title": "Who I am ?",
+      "body": "I am Reyaz Ahmad, Android developer with 3 years of industry experience with Mavenhive Technologies, Navi Technologies and Saveo Healthtech Pvt. Ltd."
+    },
+    {
+      "title": "My Education",
+      "body": "Completed my Bachelors in Computer Science & Engineering between 2015 and 2019 from MVJ College of Engineering, Bangalore (VTU)"
+    }
+  ]
+}
