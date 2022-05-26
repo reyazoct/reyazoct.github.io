@@ -1,5 +1,50 @@
 {
-  "title": "रियाज",
+  "title": "रेयाज़",
   "switch_light_theme": "लाइट थीम पर स्विच करें",
-  "switch_dark_theme": "डार्क थीम पर स्विच करें"
+  "switch_dark_theme": "डार्क थीम पर स्विच करें",
+  "my_resume": "मेरा रिज्यूमे",
+  "home": "होम",
+  "about_me": "मेरे बारे में",
+  "welcome_portfolio": "मेरे पोर्टफोलियो में आपका स्वागत है",
+  "first_name": "रेयाज़",
+  "last_name": "अहमद",
+  "skills": [
+    "एंड्रॉइड डेवलपर",
+    "डिजाइन उत्साही",
+    "फ़्लटर डेवलपर",
+    "स्प्रींग डेवलपर",
+    "नेस्ट ज्स डेवलपर"
+  ],
+  "about_info": [
+    {
+      "title": "मैं कौन हूँ ?",
+      "body": "मैं रेयाज अहमद, एंड्रॉइड डेवलपर हूं, जिसे मावेनहाइव टेक्नोलॉजीज, नवी टेक्नोलॉजीज और सेवियो हेल्थटेक प्राइवेट लिमिटेड के साथ उद्योग का 3 साल का अनुभव है।"
+    },
+    {
+      "title": "मेरी शिक्षा",
+      "body": "एमवीजे कॉलेज ऑफ इंजीनियरिंग, बैंगलोर (वीटीयू) से 2015 और 2019 के बीच कंप्यूटर विज्ञान और इंजीनियरिंग में स्नातक पूरा किया।"
+    }
+  ],
+  "social_media": [
+    {
+      "icon_location": "assets/images/linkedin.svg",
+      "redirect_url": "https://www.linkedin.com/in/reyaz-ahmad-a18109171"
+    },
+    {
+      "icon_location": "assets/images/github.svg",
+      "redirect_url": "https://github.com/reyazoct"
+    },
+    {
+      "icon_location": "assets/images/facebook.svg",
+      "redirect_url": "https://www.facebook.com/reyaz.ahmad.1656"
+    },
+    {
+      "icon_location": "assets/images/instagram.svg",
+      "redirect_url": "https://www.instagram.com/reyaz_stories"
+    }
+  ],
+  "change_language": "भाषा बदलें",
+  "choose_language": "भाषा चुनें",
+  "english": "अंग्रेज़ी",
+  "hindi": "हिन्दी"
 }

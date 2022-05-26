@@ -42,5 +42,9 @@
       "icon_location": "assets/images/instagram.svg",
       "redirect_url": "https://www.instagram.com/reyaz_stories"
     }
-  ]
+  ],
+  "change_language": "CHANGE LANGUAGE",
+  "choose_language": "Choose Language",
+  "english": "English",
+  "hindi": "Hindi"
 }
