@@ -24,5 +24,23 @@
       "title": "My Education",
       "body": "Completed my Bachelors in Computer Science & Engineering between 2015 and 2019 from MVJ College of Engineering, Bangalore (VTU)"
     }
+  ],
+  "social_media": [
+    {
+      "icon_location": "assets/images/linkedin.svg",
+      "redirect_url": "https://www.linkedin.com/in/reyaz-ahmad-a18109171"
+    },
+    {
+      "icon_location": "assets/images/github.svg",
+      "redirect_url": "https://github.com/reyazoct"
+    },
+    {
+      "icon_location": "assets/images/facebook.svg",
+      "redirect_url": "https://www.facebook.com/reyaz.ahmad.1656"
+    },
+    {
+      "icon_location": "assets/images/instagram.svg",
+      "redirect_url": "https://www.instagram.com/reyaz_stories"
+    }
   ]
 }
