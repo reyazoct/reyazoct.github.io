@@ -1,0 +1,51 @@
+{
+  "title": "റെയാസ്",
+  "switch_light_theme": "ലൈറ്റ് തീമിലേക്ക് മാറുക",
+  "switch_dark_theme": "ഡാർക്ക് തീമിലേക്ക് മാറുക",
+  "my_resume": "എന്റെ റെസ്യൂം",
+  "home": "വീട്",
+  "about_me": "എന്നെ കുറിച്ച്",
+  "welcome_portfolio": "എന്റെ പോർട്ട്‌ഫോളിയോയിലേക്ക് സ്വാഗതം",
+  "first_name": "റെയാസ്",
+  "last_name": "അഹമ്മദ്",
+  "skills": [
+    "ആൻഡ്രോയിഡ് ഡെവലപ്പർ",
+    "ഡിസൈൻ ഉത്സാഹി",
+    "ഫ്ലട്ടർ ഡെവലപ്പർ",
+    "സ്പ്രിംഗ് ഡെവലപ്പർ",
+    "നെസ്റ്റ് ജെ എസ് ഡെവലപ്പർ"
+  ],
+  "about_info": [
+    {
+      "title": "ഞാൻ ആരാണ് ?",
+      "body": "ഞാൻ മാവൻഹൈവ് ടെക്നോളജീസ്, നവി ടെക്നോളജീസ്, സേവിയോ ഹെൽത്ത്ടെക് പ്രൈവറ്റ് ലിമിറ്റഡ് എന്നിവയിൽ 3 വർഷത്തെ വ്യവസായ പരിചയമുള്ള ആൻഡ്രോയിഡ് ഡെവലപ്പറായ Reyaz Ahmad ആണ്. ലിമിറ്റഡ്"
+    },
+    {
+      "title": "എന്റെ വിദ്യാഭ്യാസം",
+      "body": "2015 നും 2019 നും ഇടയിൽ ബാംഗ്ലൂരിലെ എംവിജെ കോളേജ് ഓഫ് എഞ്ചിനീയറിംഗിൽ നിന്ന് കമ്പ്യൂട്ടർ സയൻസ് & എഞ്ചിനീയറിംഗിൽ എന്റെ ബിരുദം പൂർത്തിയാക്കി (VTU)"
+    }
+  ],
+  "social_media": [
+    {
+      "icon_location": "assets/images/linkedin.svg",
+      "redirect_url": "https://www.linkedin.com/in/reyaz-ahmad-a18109171"
+    },
+    {
+      "icon_location": "assets/images/github.svg",
+      "redirect_url": "https://github.com/reyazoct"
+    },
+    {
+      "icon_location": "assets/images/facebook.svg",
+      "redirect_url": "https://www.facebook.com/reyaz.ahmad.1656"
+    },
+    {
+      "icon_location": "assets/images/instagram.svg",
+      "redirect_url": "https://www.instagram.com/reyaz_stories"
+    }
+  ],
+  "change_language": "ഭാഷ മാറ്റുക",
+  "choose_language": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  "english": "ഇംഗ്ലീഷ്",
+  "hindi": "ഹിന്ദി",
+  "malayalam": "മലയാളം"
+}
