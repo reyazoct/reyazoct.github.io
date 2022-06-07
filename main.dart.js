@@ -63295,7 +63295,7 @@ r=t.E
 q=A.a([],r)
 for(p=J.an(h),o=f*0.5,n=0;n<p.gm(h);++n){m=J.ar(p.j(h,n),"title")
 l=i.b?B.m:B.j
-q.push(A.dS(k,A.mo(A.a([A.e0(m,new A.u(!0,l,k,k,k,k,20,B.z,k,2,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k,k),B.lZ,A.e0(J.ar(p.j(h,n),"body"),B.a1N,k,k)],r),B.bn,B.aA,B.aB),k,k,k,k,k,k,B.nC,o))}return A.ek(A.uh(new A.HO(A.nr(A.a([new A.di(B.IG,s,k),B.a_2,B.a4F,B.a_1,A.mo(q,B.bo,B.ip,B.dq)],r),B.bn,B.ip,B.aB),k),k,k),g.a.b,f)}}
+q.push(A.dS(k,A.mo(A.a([A.e0(m,new A.u(!0,l,k,k,k,k,20,B.z,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k),k,k),B.lZ,A.e0(J.ar(p.j(h,n),"body"),B.a1N,k,k)],r),B.bn,B.aA,B.aB),k,k,k,k,k,k,B.nC,o))}return A.ek(A.uh(new A.HO(A.nr(A.a([new A.di(B.IG,s,k),B.a_2,B.a4F,B.a_1,A.mo(q,B.bo,B.ip,B.dq)],r),B.bn,B.ip,B.aB),k),k,k),g.a.b,f)}}
 A.CJ.prototype={
 I(a,b){var s,r,q,p,o,n,m=null,l=A.CT(b),k=A.nm(b,t.hz),j=l.p7("about_info"),i=t.l,h=b.K(i).f
 b.K(i).toString
@@ -63306,7 +63306,7 @@ s=t.E
 r=A.a([],s)
 for(q=J.an(j),p=0;p<q.gm(j);++p){o=J.ar(q.j(j,p),"title")
 n=k.b?B.m:B.j
-r.push(A.dS(m,A.mo(A.a([A.e0(o,new A.u(!0,n,m,m,m,m,16,B.z,m,2,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),m,m),B.lZ,A.e0(J.ar(q.j(j,p),"body"),B.a1M,m,m)],s),B.bn,B.aA,B.aB),m,m,m,m,m,m,B.nC,m))}return A.dS(m,A.mo(A.a([new A.di(B.IF,i,m),B.lZ,B.Ip,A.mo(r,B.bo,B.ip,B.dq)],s),B.bn,B.aA,B.aB),m,m,m,m,m,m,new A.aV(h,32,h,32),m)}}
+r.push(A.dS(m,A.mo(A.a([A.e0(o,new A.u(!0,n,m,m,m,m,16,B.z,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m),m,m),B.lZ,A.e0(J.ar(q.j(j,p),"body"),B.a1M,m,m)],s),B.bn,B.aA,B.aB),m,m,m,m,m,m,B.nC,m))}return A.dS(m,A.mo(A.a([new A.di(B.IF,i,m),B.lZ,B.Ip,A.mo(r,B.bo,B.ip,B.dq)],s),B.bn,B.aA,B.aB),m,m,m,m,m,m,new A.aV(h,32,h,32),m)}}
 A.mL.prototype={
 aH(){var s=t.N,r=t.z
 return new A.Hz(A.a([A.aQ(["titleStringKey","home"],s,r),A.aQ(["titleStringKey","about_me"],s,r)],t.gG),A.a4r(),B.u)}}
@@ -69648,8 +69648,8 @@ B.BK=new A.yV(1,"even")
 B.fI=new A.rh(2,"ellipsis")
 B.a02=new A.rh(3,"visible")
 B.a03=new A.yW(null,null,null)
-B.a1M=new A.u(!0,B.ds,null,null,null,null,12,B.br,null,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a1N=new A.u(!0,B.ds,null,null,null,null,16,B.br,null,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.a1M=new A.u(!0,B.ds,null,null,null,null,12,B.br,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.a1N=new A.u(!0,B.ds,null,null,null,null,16,B.br,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.FI=new A.m(3506372608)
 B.a2p=new A.u(!0,B.FI,null,"monospace",null,null,48,B.hF,null,null,null,null,null,null,null,null,null,B.BI,B.nq,B.BH,null,"fallback style; consider putting your text in a Material",null,null,null)
 B.a2G=new A.u(!0,null,null,null,null,null,null,B.ck,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
