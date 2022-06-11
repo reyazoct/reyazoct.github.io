@@ -5,6 +5,7 @@
   "my_resume": "MY RESUME",
   "home": "HOME",
   "about_me": "ABOUT ME",
+  "my_experience": "MY EXPERIENCE",
   "welcome_portfolio": "WELCOME TO MY PORTFOLIO",
   "first_name": "Reyaz",
   "last_name": "Ahmad",
@@ -23,6 +24,24 @@
     {
       "title": "My Education",
       "body": "Completed my Bachelors in Computer Science & Engineering between 2015 and 2019 from MVJ College of Engineering, Bangalore (VTU)"
+    }
+  ],
+  "applications": [
+    {
+      "organization_name": "Navi\nTechnologies",
+      "app_icon_path": "assets/images/navi.svg",
+      "app_image_path": "assets/images/navi_app.png",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.naviapp",
+      "background_color": "#FFB3B3",
+      "border_color": "#FF8080"
+    },
+    {
+      "organization_name": "Saveo\nHealthtech",
+      "app_icon_path": "assets/images/saveo.svg",
+      "app_image_path": "assets/images/saveo_app.png",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.saveo.saveomedical",
+      "background_color": "#CDCAE7",
+      "border_color": "#ACA7D7"
     }
   ],
   "social_media": [
@@ -47,5 +66,6 @@
   "choose_language": "Choose Language",
   "english": "English",
   "hindi": "Hindi",
-  "malayalam" : "Malayalam"
+  "malayalam" : "Malayalam",
+  "my_apps": "MY APPS"
 }

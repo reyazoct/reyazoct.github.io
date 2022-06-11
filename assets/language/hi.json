@@ -25,6 +25,24 @@
       "body": "एमवीजे कॉलेज ऑफ इंजीनियरिंग, बैंगलोर (वीटीयू) से 2015 और 2019 के बीच कंप्यूटर विज्ञान और इंजीनियरिंग में स्नातक पूरा किया।"
     }
   ],
+  "applications": [
+    {
+      "organization_name": "नवी\nटेक्नोलॉजीज",
+      "app_icon_path": "assets/images/navi.svg",
+      "app_image_path": "assets/images/navi_app.png",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.naviapp",
+      "background_color": "#FFB3B3",
+      "border_color": "#FF8080"
+    },
+    {
+      "organization_name": "सेवियो\nहेल्थटेक",
+      "app_icon_path": "assets/images/saveo.svg",
+      "app_image_path": "assets/images/saveo_app.png",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.saveo.saveomedical",
+      "background_color": "#CDCAE7",
+      "border_color": "#ACA7D7"
+    }
+  ],
   "social_media": [
     {
       "icon_location": "assets/images/linkedin.svg",
@@ -47,5 +65,6 @@
   "choose_language": "भाषा चुनें",
   "english": "अंग्रेज़ी",
   "hindi": "हिन्दी",
-  "malayalam": "मलयालम"
+  "malayalam": "मलयालम",
+  "my_apps": "मेरी एप्प्स"
 }

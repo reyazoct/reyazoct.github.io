@@ -25,6 +25,24 @@
       "body": "2015 നും 2019 നും ഇടയിൽ ബാംഗ്ലൂരിലെ എംവിജെ കോളേജ് ഓഫ് എഞ്ചിനീയറിംഗിൽ നിന്ന് കമ്പ്യൂട്ടർ സയൻസ് & എഞ്ചിനീയറിംഗിൽ എന്റെ ബിരുദം പൂർത്തിയാക്കി (VTU)"
     }
   ],
+  "applications": [
+    {
+      "organization_name": "നാവി\nസാങ്കേതികവിദ്യകൾ",
+      "app_icon_path": "assets/images/navi.svg",
+      "app_image_path": "assets/images/navi_app.png",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.naviapp",
+      "background_color": "#FFB3B3",
+      "border_color": "#FF8080"
+    },
+    {
+      "organization_name": "സേവോ\nഹെൽത്ത്ടെക്",
+      "app_icon_path": "assets/images/saveo.svg",
+      "app_image_path": "assets/images/saveo_app.png",
+      "play_store_link": "https://play.google.com/store/apps/details?id=com.saveo.saveomedical",
+      "background_color": "#CDCAE7",
+      "border_color": "#ACA7D7"
+    }
+  ],
   "social_media": [
     {
       "icon_location": "assets/images/linkedin.svg",
@@ -47,5 +65,6 @@
   "choose_language": "ഭാഷ തിരഞ്ഞെടുക്കുക",
   "english": "ഇംഗ്ലീഷ്",
   "hindi": "ഹിന്ദി",
-  "malayalam": "മലയാളം"
+  "malayalam": "മലയാളം",
+  "my_apps": "എന്റെ ആപ്പുകൾ"
 }
